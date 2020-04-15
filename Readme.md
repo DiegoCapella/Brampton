@@ -19,3 +19,17 @@ This front-end layout was created to try to improve my knowledge of Bootstrap.
 * https://www.edivaldobrito.com.br/smillaenlarger-redimensionar-imagens/
 
 **Images home**
+
+* https://www.pexels.com/pt-br/foto/atraente-bem-estar-boxe-escuro-163351/
+
+* https://www.pexels.com/pt-br/foto/academia-de-ginastica-aco-aparelhos-dentro-de-casa-949131/
+
+* https://br.freepik.com/fotos-vetores-gratis/abstrato
+
+* https://www.flaticon.com/free-icon/boxing_2548419?term=boxing&page=1&position=69
+* https://www.flaticon.com/free-icon/boxing_2503601?term=boxing&page=1&position=11
+* https://www.flaticon.com/free-icon/punching-bag_1787155?term=boxing&page=3&position=48
+
+* https://www.pexels.com/pt-br/foto/assento-banco-caneca-copo-374044/
+* https://www.pexels.com/pt-br/foto/adulto-alegre-alegria-barba-220453/
+* https://www.pexels.com/pt-br/foto/cara-de-boa-aparencia-desgaste-elegante-614810/
