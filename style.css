@@ -114,3 +114,53 @@
 #services p {
   text-align: justify;
 }
+
+/* Features */
+#features {
+  padding: 60px 0 60px 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url(img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+.personal {
+  height: 400px;
+}
+
+#features .col-md-6 {
+  padding: 20px;
+}
+
+.feature-box {
+  height: 120px;
+}
+
+.feature-box .feature-left {
+  height: 120px;
+  float: left;
+  width: 20%;
+}
+
+.feature-box .feature-left .fas {
+  padding-top: 10px;
+  font-size: 50px;
+}
+
+.feature-box .feature-right {
+  height: 120px;
+  float: left;
+  width: 80%;
+}
+
+.feature-box .feature-right h4 {
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 15px;
+}
+
+.feature-box .feature-right p {
+  text-align: left;
+  padding-left: 15px;
+}
