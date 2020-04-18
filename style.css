@@ -64,3 +64,28 @@
 .welcome .btn:focus {
   box-shadow: none;
 }
+
+/* About */
+#about {
+ padding: 100px 0 100px 0;
+}
+
+.run-img {
+  height: 500px;
+}
+
+#about h3 {
+  margin: 20px auto;
+}
+
+#about p {
+  text-align: justify;
+}
+
+.yoga {
+  margin-top: 20px;
+}
+
+.yoga-video {
+  margin-top: 50px;
+}
