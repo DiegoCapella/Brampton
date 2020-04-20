@@ -164,3 +164,48 @@
   text-align: left;
   padding-left: 15px;
 }
+
+/* Testimonials */
+#testimonials {
+  padding: 100px 0 100px 0;
+}
+
+#testimonials .col-md-4 {
+  padding: 10px 30px;
+}
+
+#testimonials img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-left: -30px;
+  margin-top: -40px;
+  border: 5px solid #fff;
+  margin-bottom: 30px;
+}
+
+.review {
+  font-size: 16px;
+  padding: 10px 20px 10px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.5);
+  text-align: justify;
+}
+
+.review .fab {
+  color: #013f7e;
+}
+
+.review span {
+  color: #013f7e;
+  font-weight: bold;
+}
+
+#testimonials h1 {
+  margin-bottom: 20px;
+  color: #013f7e;
+}
+
+#testimonials p {
+  padding-bottom: 30px;
+}
