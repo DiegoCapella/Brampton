@@ -217,6 +217,7 @@
   position: relative;
   box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
+  margin-bottom: -150px;
 }
 
 .subscribe h3, .subscribe p  {
@@ -255,4 +256,35 @@
 .subscribe .btn:focus {
   box-shadow: none;
   background: transparent;
+}
+
+/* Footer */
+#footer {
+  margin-top: 80px;
+  padding: 100px 0 20px 0;
+  background-color: #efefef;
+  color: #013f7e;
+}
+
+.footer-logo {
+  width: 150px;
+  margin: 20px 0 15px 0; 
+}
+
+
+#footer h3 {
+  font-size: 20px;
+  text-align: left;
+  margin: 25px 0 25px 0;
+}
+
+#footer .fas, .fab {
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+#footer .copyright {
+  font-size: 18px;
+  text-align: center;
+  padding-top: 20px;
 }
